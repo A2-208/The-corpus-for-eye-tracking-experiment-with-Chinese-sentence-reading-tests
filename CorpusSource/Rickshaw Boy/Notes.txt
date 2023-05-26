@@ -8,3 +8,7 @@ Lao She began the novel in spring, 1936, and it was published in installments in
 
 In 1945, Evan King published an unauthorized translation of the novel. He cut, rearranged, rewrote, invented characters, and changed the ending. The girl student and One Pock Li are King's, not Lao She's. King also added considerable embellishment to the two seduction scenes. Despite the liberties taken, the book was a bestseller in the United States and a Book-of-the-Month club selection.
 
+The word frequency in Chinese is referenced from the dataset[1] as a point of reference.
+
+Reference:
+[1] Guangjin Jin, Hang Xiao, Fu Li, et al. Construction and Deep Processing of Modern Chinese Corpus [J]. Journal of Language Application, 2005(2):111-120 (in Chinese).http://corpus.zhonghuayuwen.org/
