@@ -10,4 +10,5 @@ The methodology used in this study involves the selection of appropriate sentenc
 The word frequency in Chinese is referenced from the dataset[1] as a point of reference.
 
 Reference:
+
 [1] Guangjin Jin, Hang Xiao, Fu Li, et al. Construction and Deep Processing of Modern Chinese Corpus [J]. Journal of Language Application, 2005(2):111-120 (in Chinese).http://corpus.zhonghuayuwen.org/
