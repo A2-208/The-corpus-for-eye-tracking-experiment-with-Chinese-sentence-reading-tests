@@ -1,0 +1,10 @@
+Rickshaw Boy or Camel Xiangzi (Chinese: 骆驼祥子; pinyin: Luòtuo Xiángzi) is a novel by the Chinese author Lao She about the life of a fictional Beijing rickshaw man. It is considered a classic of 20th-century Chinese literature.
+
+The Chinese version of Rickshaw Boy is currently in the public domain, and the dataset of high-frequency and low-frequency sentences generated based on Rickshaw Boy will be made public for researchers who need it.
+
+There are two folders. Within folder OriginalDataRecord, there are a total of 360 pairs of sentence samples, which comprise the experimental raw data. In contrast, folder SelectedData contains 225 samples that were selectively chosen from the experimental raw data and successfully had their word frequency reduced through ChatGPT substitution. All files are stored in the xlsx format.
+
+Lao She began the novel in spring, 1936, and it was published in installments in the magazine Yuzhou feng ("Cosmic wind") beginning in January, 1937 Lao She returned to China from the United States after the establishment of the People's Republic of China in 1949. In an afterword dated September, 1954, included in the Foreign Languages Press edition of Rickshaw Boy, Lao She said that he had edited the manuscript ("taken out some of the coarser language and some unnecessary descriptions") and he expressed regret for the lack of hope expressed in the original edition.
+
+In 1945, Evan King published an unauthorized translation of the novel. He cut, rearranged, rewrote, invented characters, and changed the ending. The girl student and One Pock Li are King's, not Lao She's. King also added considerable embellishment to the two seduction scenes. Despite the liberties taken, the book was a bestseller in the United States and a Book-of-the-Month club selection.
+
